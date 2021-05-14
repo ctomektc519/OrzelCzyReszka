@@ -1,0 +1,13 @@
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\bin\Debug\OrzełCzyReszka.exe.config
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\bin\Debug\OrzełCzyReszka.exe
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\bin\Debug\OrzełCzyReszka.pdb
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\bin\Debug\pl-PL\OrzełCzyReszka.resources.dll
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.OrzełCzyReszka.resources
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.Properties.Resources.resources
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.OrzełCzyReszka.pl-PL.resources
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csproj.GenerateResource.cache
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csproj.CoreCompileInputs.cache
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\pl-PL\OrzełCzyReszka.resources.dll
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.exe
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.pdb
+C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csprojAssemblyReference.cache
