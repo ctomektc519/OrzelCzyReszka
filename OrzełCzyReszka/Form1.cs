@@ -28,6 +28,7 @@ namespace OrzełCzyReszka
         public OrzełCzyReszka()
         {
             InitializeComponent();
+            Text = "Orzeł czy Reszka";
 
             ///** Wyłączenie kontrolek zamykania, minimalizacji... w aplikacji**
 
@@ -41,7 +42,7 @@ namespace OrzełCzyReszka
 
         private void OrzełCzyReszka_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label_Title_Click(object sender, EventArgs e)
@@ -443,6 +444,13 @@ namespace OrzełCzyReszka
         {
        
         }
+
         
+
+        private void ZmianaMonety_Click(object sender, EventArgs e)
+        {
+            Monety moneta = new Monety();
+            moneta.Show();
+        }
     }
 }

@@ -11,3 +11,17 @@ C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\
 C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.exe
 C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.pdb
 C:\Users\Sławka i Tomek\source\repos\OrzełCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csprojAssemblyReference.cache
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\bin\Debug\OrzełCzyReszka.exe.config
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\bin\Debug\OrzełCzyReszka.exe
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\bin\Debug\OrzełCzyReszka.pdb
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\bin\Debug\pl-PL\OrzełCzyReszka.resources.dll
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csprojAssemblyReference.cache
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.OrzełCzyReszka.resources
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.Properties.Resources.resources
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.OrzełCzyReszka.pl-PL.resources
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csproj.GenerateResource.cache
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.csproj.CoreCompileInputs.cache
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\pl-PL\OrzełCzyReszka.resources.dll
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.exe
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.pdb
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.Monety.resources
