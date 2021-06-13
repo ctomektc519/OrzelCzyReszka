@@ -80,6 +80,7 @@
             this.Wybierz5zl.TabIndex = 9;
             this.Wybierz5zl.Text = "Wybierz";
             this.Wybierz5zl.UseVisualStyleBackColor = false;
+            this.Wybierz5zl.Click += new System.EventHandler(this.Wybierz5zl_Click);
             // 
             // wybierz1zl
             // 
@@ -93,6 +94,7 @@
             this.wybierz1zl.TabIndex = 10;
             this.wybierz1zl.Text = "Wybierz";
             this.wybierz1zl.UseVisualStyleBackColor = false;
+            this.wybierz1zl.Click += new System.EventHandler(this.wybierz1zl_Click);
             // 
             // Monety
             // 

@@ -7,14 +7,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows;
+
 
 namespace OrzełCzyReszka
 {
     public partial class Monety : Form
     {
-        public Monety()
+        private OrzełCzyReszka OrzResz;
+        public Monety(OrzełCzyReszka glowna)
         {
             InitializeComponent();
+            OrzResz = glowna;
+           
+            
+        }
+       
+
+        private void Wybierz5zl_Click(object sender, EventArgs e)
+        {
+            OrzResz.Show();
+            this.Close();
+            
+            
+        }
+
+        private void wybierz1zl_Click(object sender, EventArgs e)
+        {
+            OrzResz.Hide();
         }
     }
 }
