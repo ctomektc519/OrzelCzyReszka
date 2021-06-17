@@ -25,3 +25,4 @@ C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\pl-PL\OrzełCzyReszka.resources.
 C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.exe
 C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.pdb
 C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.Monety.resources
+C:\Git\OrzelCzyReszka\OrzełCzyReszka\obj\Debug\OrzełCzyReszka.Form2.resources
