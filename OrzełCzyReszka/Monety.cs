@@ -35,6 +35,10 @@ namespace OrzełCzyReszka
         private void wybierz1zl_Click(object sender, EventArgs e)
         {
             OrzResz.Hide();
+            this.Close();
+            Form2 f2 = new Form2(OrzResz);
+            f2.Show();
+
         }
     }
 }

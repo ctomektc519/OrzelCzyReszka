@@ -12,9 +12,17 @@ namespace OrzełCzyReszka
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        private OrzełCzyReszka FormGlowny;
+        public Form2(OrzełCzyReszka glowna)
         {
             InitializeComponent();
+            FormGlowny = glowna;
+            FormClosing += buttonZamknij2_Click;
+        }
+
+        private void buttonZamknij2_Click(object sender, EventArgs e)
+        {
+            FormGlowny.Close();
         }
     }
 }

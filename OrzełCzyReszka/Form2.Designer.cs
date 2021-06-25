@@ -233,6 +233,7 @@
             this.buttonZamknij2.TabIndex = 19;
             this.buttonZamknij2.Text = "Zamknij";
             this.buttonZamknij2.UseVisualStyleBackColor = true;
+            this.buttonZamknij2.Click += new System.EventHandler(this.buttonZamknij2_Click);
             // 
             // Form2
             // 
