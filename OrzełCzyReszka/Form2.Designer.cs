@@ -220,6 +220,7 @@
             this.ZmianaMonety2.TabIndex = 18;
             this.ZmianaMonety2.Text = "Zmień monetę";
             this.ZmianaMonety2.UseVisualStyleBackColor = true;
+            this.ZmianaMonety2.Click += new System.EventHandler(this.ZmianaMonety2_Click);
             // 
             // buttonZamknij2
             // 

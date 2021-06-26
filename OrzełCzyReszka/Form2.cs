@@ -17,12 +17,23 @@ namespace OrzełCzyReszka
         {
             InitializeComponent();
             FormGlowny = glowna;
-            FormClosing += buttonZamknij2_Click;
+            FormClosing += OrzelCzyReszka_FormClosing2;
         }
 
         private void buttonZamknij2_Click(object sender, EventArgs e)
         {
             FormGlowny.Close();
+        }
+        internal void OrzelCzyReszka_FormClosing2(object sender, FormClosingEventArgs e)
+        {
+          
+            e.Cancel = true;
+            FormGlowny.Close();
+        }
+
+        private void ZmianaMonety2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
