@@ -16,11 +16,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows;
+
 
 namespace OrzełCzyReszka
 {
+     
     public partial class OrzełCzyReszka : Form
     {
+        
         private int[] values;
         private int orly = 0;
         private int reszki = 0;
@@ -28,6 +32,7 @@ namespace OrzełCzyReszka
         public OrzełCzyReszka()
         {
             InitializeComponent();
+            Text = "Orzeł czy Reszka";
 
             ///** Wyłączenie kontrolek zamykania, minimalizacji... w aplikacji**
 
@@ -41,7 +46,7 @@ namespace OrzełCzyReszka
 
         private void OrzełCzyReszka_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label_Title_Click(object sender, EventArgs e)
@@ -81,7 +86,7 @@ namespace OrzełCzyReszka
 
         /// ** Przycisk Zamknij      
 
-        private void buttonZamknij_Click(object sender, EventArgs e)
+        internal void buttonZamknij_Click(object sender, EventArgs e)
         {
             /* 
              if (MessageBox.Show("Czy napewno chcesz wyjść z programu?"
@@ -96,7 +101,7 @@ namespace OrzełCzyReszka
         }
         // Operacje wykonywana w momencie próby zamknięcia programu
 
-        private void OrzelCzyReszka_FormClosing(object sender, FormClosingEventArgs e)
+        internal void OrzelCzyReszka_FormClosing(object sender, FormClosingEventArgs e)
         {
             System.Windows.Forms.DialogResult wynik = MessageBox.Show(
                   "Czy napewno chcesz zamknąć program ?",
@@ -106,7 +111,7 @@ namespace OrzełCzyReszka
                   MessageBoxDefaultButton.Button2);
 
             e.Cancel = (wynik == DialogResult.No);
-
+            
             /// ** Dodatkowe okno zamykania 
             /// ** 10.0.2021 - Po analizie wyłączono
             /*
@@ -443,6 +448,14 @@ namespace OrzełCzyReszka
         {
        
         }
+
         
+
+        public void ZmianaMonety_Click(object sender, EventArgs e)
+        {
+            Monety moneta = new Monety(this);
+            moneta.Show();
+                      
+        }
     }
 }
