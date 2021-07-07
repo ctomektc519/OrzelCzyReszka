@@ -30,10 +30,14 @@ namespace OrzełCzyReszka
             e.Cancel = true;
             FormGlowny.Close();
         }
-
+        
         private void ZmianaMonety2_Click(object sender, EventArgs e)
         {
-
+            Monety moneta = new Monety(FormGlowny);
+            FormClosing -= OrzelCzyReszka_FormClosing2;
+            this.Close();
+            FormGlowny.Show();
+            moneta.Show();
         }
     }
 }

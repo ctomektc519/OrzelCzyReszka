@@ -14,7 +14,7 @@ namespace OrzełCzyReszka
 {
     public partial class Monety : Form
     {
-        private OrzełCzyReszka OrzResz;
+        public OrzełCzyReszka OrzResz;
         public Monety(OrzełCzyReszka glowna)
         {
             InitializeComponent();
@@ -28,6 +28,7 @@ namespace OrzełCzyReszka
         {
             OrzResz.Show();
             this.Close();
+           
             
             
         }
