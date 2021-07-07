@@ -207,6 +207,7 @@
             this.buttonWyczysc2.TabIndex = 17;
             this.buttonWyczysc2.Text = "Wyczyść";
             this.buttonWyczysc2.UseVisualStyleBackColor = true;
+            this.buttonWyczysc2.Click += new System.EventHandler(this.buttonWyczysc2_Click);
             // 
             // ZmianaMonety2
             // 
