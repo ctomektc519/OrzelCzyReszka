@@ -80,14 +80,17 @@
             this.pictureBox11.Location = new System.Drawing.Point(8, 96);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox11.TabIndex = 5;
             this.pictureBox11.TabStop = false;
+            this.pictureBox11.Click += new System.EventHandler(this.pictureBox11_Click);
             // 
             // pictureBox33
             // 
             this.pictureBox33.Location = new System.Drawing.Point(220, 96);
             this.pictureBox33.Name = "pictureBox33";
             this.pictureBox33.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox33.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox33.TabIndex = 6;
             this.pictureBox33.TabStop = false;
             // 
@@ -96,6 +99,7 @@
             this.pictureBox55.Location = new System.Drawing.Point(431, 96);
             this.pictureBox55.Name = "pictureBox55";
             this.pictureBox55.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox55.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox55.TabIndex = 7;
             this.pictureBox55.TabStop = false;
             // 
@@ -104,6 +108,7 @@
             this.pictureBox44.Location = new System.Drawing.Point(326, 96);
             this.pictureBox44.Name = "pictureBox44";
             this.pictureBox44.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox44.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox44.TabIndex = 8;
             this.pictureBox44.TabStop = false;
             // 
@@ -112,6 +117,7 @@
             this.pictureBox22.Location = new System.Drawing.Point(114, 96);
             this.pictureBox22.Name = "pictureBox22";
             this.pictureBox22.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox22.TabIndex = 9;
             this.pictureBox22.TabStop = false;
             // 
@@ -195,6 +201,7 @@
             this.buttonRzuc2.TabIndex = 16;
             this.buttonRzuc2.Text = "Rzuć monetą";
             this.buttonRzuc2.UseVisualStyleBackColor = true;
+            this.buttonRzuc2.Click += new System.EventHandler(this.buttonRzuc2_Click);
             // 
             // buttonWyczysc2
             // 
