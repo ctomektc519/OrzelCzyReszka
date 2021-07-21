@@ -453,6 +453,14 @@ namespace OrzełCzyReszka
 
         public void ZmianaMonety_Click(object sender, EventArgs e)
         {
+            textBoxIleMonet.Text = "1";
+            LorlowWynik.Text = "0";
+            LReszekWynik.Text = "0";
+            pictureBox1.Image = Image.FromFile(@"Resources\5ReszkazOk.png");
+            pictureBox2.Image = null;
+            pictureBox3.Image = null;
+            pictureBox4.Image = null;
+            pictureBox5.Image = null;
             Monety moneta = new Monety(this);
             moneta.Show();
                       

@@ -63,6 +63,16 @@ namespace OrzełCzyReszka.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1zlReszka {
+            get {
+                object obj = ResourceManager.GetObject("1zlReszka", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _5OrzelOK {
             get {
                 object obj = ResourceManager.GetObject("5OrzelOK", resourceCulture);

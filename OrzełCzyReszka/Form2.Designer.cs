@@ -77,6 +77,7 @@
             // 
             // pictureBox11
             // 
+            this.pictureBox11.Image = global::OrzełCzyReszka.Properties.Resources._1zlReszka;
             this.pictureBox11.Location = new System.Drawing.Point(8, 96);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(100, 100);
